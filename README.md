@@ -1,10 +1,12 @@
 # GenAIJudge
 
-Our approach involves using ChaptGPT to intelligently: 
+We present a Proof of Concept (PoC) for a tool with the following capabilities. Our approach involves using ChaptGPT to intelligently: 
 1. Summarize the problem and solution
 2. ⁠Comment and provide rating for different rubrics 
 3. ⁠Summarize the proposal 
-4. ⁠(Future) Highlight key sentences in proposal 
+4. ⁠(Future) Highlight key sentences in proposal
+5. 
+
 
 **AIEarthHack.ipynb**: Jupyter notebook to preprocess the dataset.
 
