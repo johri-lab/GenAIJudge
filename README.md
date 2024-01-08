@@ -4,11 +4,12 @@ We present a Proof of Concept (PoC) for a tool with the following capabilities. 
 1. Summarize the problem and solution
 2. ⁠Comment and provide rating for different rubrics 
 3. ⁠Summarize the proposal 
-4. ⁠(Future) Highlight key sentences in proposal
-5. 
+4. ⁠(Future) Highlight key sentences in proposals
+
 
 
 **AIEarthHack.ipynb**: Jupyter notebook to preprocess the dataset.
+Approach highlights the proof of concept using 50 samples to successfully demonstrate that this tool is capable of reducing the workload of judges.
 
 **Harvard Hack Proposals Visualization.ipynb**: Jupyter notebook to visualize proposals embedded using Sentence Transformer. After cleaning, the summaries are embedded and visualized in 3D. Human judges can interactively select the proposals of interest and disregard clusters of uninteresting proposals.
 
